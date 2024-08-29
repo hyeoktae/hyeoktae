@@ -3,7 +3,7 @@
 <!--
 **hyeoktae/hyeoktae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+
 
 요즘 TCA에 대해 공부하고 있어요!
 
